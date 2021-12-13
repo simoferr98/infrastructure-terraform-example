@@ -1,0 +1,5 @@
+project_name          = "ecs-sqs-lambda-example"
+region                = "eu-central-1"
+environment           = "dev"
+owner                 = "mail"
+send_mail_name_suffix = "send-mail-user"
